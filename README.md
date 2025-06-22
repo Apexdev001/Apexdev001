@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Apexdev – a Frontend Developer<br><br>💻 I specialize in building responsive, user-friendly websites and web apps using modern technologies.  <br>🎨 I turn creative designs into clean, interactive interfaces that bring ideas to life on the web.<br><br>🔧 Tech Stack:<br>- HTML5, CSS3, JavaScript (ES6+)<br>- Tailwind CSS, Bootstrap<br>- React.js<br>- Git & GitHub<br><br>📫 Let's connect and collaborate on cool projects:
 
+Portfolio Site: https://apexdevportfolio.netlify.app/
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/apexdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fayoola010@gmail.com) 
@@ -15,6 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Apexdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Portfolio: https://apexdevportfolio.netlify.app/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
